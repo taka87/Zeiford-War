@@ -1,0 +1,7 @@
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\bin\Debug\01War.exe.config
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\bin\Debug\01War.exe
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\bin\Debug\01War.pdb
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\obj\Debug\01War.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\obj\Debug\01War.csproj.CoreCompileInputs.cache
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\obj\Debug\01War.exe
+C:\Users\Pilence\source\repos\ZeifordArmy\01War\obj\Debug\01War.pdb
